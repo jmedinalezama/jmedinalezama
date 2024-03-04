@@ -4,4 +4,4 @@
 </p>
 
 <p align="center"><strong>Diseñador y desarrollador <i>Front-end</i></strong> & <strong><i>Back-end</i></strong> ❤️.</p>
-<p align="center"><small><a href="https://jmedinalezama.github.io/portafolio-cv/" target="_blank" rel="noopener noreferrer" style="color: skyblue;">Más sobre  mí</a></small></p>
+<p align="center"><small><a href="https://jmedina-porfolio.vercel.app/" target="_blank" rel="noopener noreferrer" style="color: skyblue;">Más sobre  mí</a></small></p>
